@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/tinu2962-sys/leetcodesolutions/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/tinu2962-sys/leetcodesolutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/tinu2962-sys/leetcodesolutions/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/tinu2962-sys/leetcodesolutions/tree/master/0217-contains-duplicate) |
 | [1512-number-of-good-pairs](https://github.com/tinu2962-sys/leetcodesolutions/tree/master/1512-number-of-good-pairs) |
 | [2016-maximum-difference-between-increasing-elements](https://github.com/tinu2962-sys/leetcodesolutions/tree/master/2016-maximum-difference-between-increasing-elements) |
 ## Hash Table
@@ -20,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/tinu2962-sys/leetcodesolutions/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/tinu2962-sys/leetcodesolutions/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/tinu2962-sys/leetcodesolutions/tree/master/0217-contains-duplicate) |
 | [1512-number-of-good-pairs](https://github.com/tinu2962-sys/leetcodesolutions/tree/master/1512-number-of-good-pairs) |
 | [2325-decode-the-message](https://github.com/tinu2962-sys/leetcodesolutions/tree/master/2325-decode-the-message) |
 ## Math
@@ -45,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/tinu2962-sys/leetcodesolutions/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/tinu2962-sys/leetcodesolutions/tree/master/0217-contains-duplicate) |
 ## Counting
 |  |
 | ------- |
