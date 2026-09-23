@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/tinu2962-sys/leetcodesolutions/tree/master/0012-integer-to-roman) |
+| [0013-roman-to-integer](https://github.com/tinu2962-sys/leetcodesolutions/tree/master/0013-roman-to-integer) |
 | [0058-length-of-last-word](https://github.com/tinu2962-sys/leetcodesolutions/tree/master/0058-length-of-last-word) |
 | [2325-decode-the-message](https://github.com/tinu2962-sys/leetcodesolutions/tree/master/2325-decode-the-message) |
 ## Array
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/tinu2962-sys/leetcodesolutions/tree/master/0001-two-sum) |
 | [0012-integer-to-roman](https://github.com/tinu2962-sys/leetcodesolutions/tree/master/0012-integer-to-roman) |
+| [0013-roman-to-integer](https://github.com/tinu2962-sys/leetcodesolutions/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/tinu2962-sys/leetcodesolutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/tinu2962-sys/leetcodesolutions/tree/master/0217-contains-duplicate) |
 | [1512-number-of-good-pairs](https://github.com/tinu2962-sys/leetcodesolutions/tree/master/1512-number-of-good-pairs) |
@@ -30,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/tinu2962-sys/leetcodesolutions/tree/master/0012-integer-to-roman) |
+| [0013-roman-to-integer](https://github.com/tinu2962-sys/leetcodesolutions/tree/master/0013-roman-to-integer) |
 | [0050-powx-n](https://github.com/tinu2962-sys/leetcodesolutions/tree/master/0050-powx-n) |
 | [1512-number-of-good-pairs](https://github.com/tinu2962-sys/leetcodesolutions/tree/master/1512-number-of-good-pairs) |
 ## Recursion
