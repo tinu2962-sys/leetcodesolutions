@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/tinu2962-sys/leetcodesolutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/tinu2962-sys/leetcodesolutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/tinu2962-sys/leetcodesolutions/tree/master/0217-contains-duplicate) |
+| [0349-intersection-of-two-arrays](https://github.com/tinu2962-sys/leetcodesolutions/tree/master/0349-intersection-of-two-arrays) |
 | [1512-number-of-good-pairs](https://github.com/tinu2962-sys/leetcodesolutions/tree/master/1512-number-of-good-pairs) |
 | [2016-maximum-difference-between-increasing-elements](https://github.com/tinu2962-sys/leetcodesolutions/tree/master/2016-maximum-difference-between-increasing-elements) |
 ## Hash Table
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/tinu2962-sys/leetcodesolutions/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/tinu2962-sys/leetcodesolutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/tinu2962-sys/leetcodesolutions/tree/master/0217-contains-duplicate) |
+| [0349-intersection-of-two-arrays](https://github.com/tinu2962-sys/leetcodesolutions/tree/master/0349-intersection-of-two-arrays) |
 | [1512-number-of-good-pairs](https://github.com/tinu2962-sys/leetcodesolutions/tree/master/1512-number-of-good-pairs) |
 | [2325-decode-the-message](https://github.com/tinu2962-sys/leetcodesolutions/tree/master/2325-decode-the-message) |
 ## Math
@@ -55,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/tinu2962-sys/leetcodesolutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/tinu2962-sys/leetcodesolutions/tree/master/0217-contains-duplicate) |
+| [0349-intersection-of-two-arrays](https://github.com/tinu2962-sys/leetcodesolutions/tree/master/0349-intersection-of-two-arrays) |
 ## Counting
 |  |
 | ------- |
@@ -64,4 +67,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/tinu2962-sys/leetcodesolutions/tree/master/0169-majority-element) |
+## Two Pointers
+|  |
+| ------- |
+| [0349-intersection-of-two-arrays](https://github.com/tinu2962-sys/leetcodesolutions/tree/master/0349-intersection-of-two-arrays) |
+## Binary Search
+|  |
+| ------- |
+| [0349-intersection-of-two-arrays](https://github.com/tinu2962-sys/leetcodesolutions/tree/master/0349-intersection-of-two-arrays) |
 <!---LeetCode Topics End-->
