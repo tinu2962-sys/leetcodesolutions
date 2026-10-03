@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/tinu2962-sys/leetcodesolutions/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/tinu2962-sys/leetcodesolutions/tree/master/0013-roman-to-integer) |
 | [0058-length-of-last-word](https://github.com/tinu2962-sys/leetcodesolutions/tree/master/0058-length-of-last-word) |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/tinu2962-sys/leetcodesolutions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2325-decode-the-message](https://github.com/tinu2962-sys/leetcodesolutions/tree/master/2325-decode-the-message) |
 ## Array
 |  |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/tinu2962-sys/leetcodesolutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/tinu2962-sys/leetcodesolutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1512-number-of-good-pairs](https://github.com/tinu2962-sys/leetcodesolutions/tree/master/1512-number-of-good-pairs) |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/tinu2962-sys/leetcodesolutions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2325-decode-the-message](https://github.com/tinu2962-sys/leetcodesolutions/tree/master/2325-decode-the-message) |
 ## Math
 |  |
@@ -74,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/tinu2962-sys/leetcodesolutions/tree/master/0169-majority-element) |
 | [1512-number-of-good-pairs](https://github.com/tinu2962-sys/leetcodesolutions/tree/master/1512-number-of-good-pairs) |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/tinu2962-sys/leetcodesolutions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
@@ -97,4 +100,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/tinu2962-sys/leetcodesolutions/tree/master/0231-power-of-two) |
+## Sliding Window
+|  |
+| ------- |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/tinu2962-sys/leetcodesolutions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 <!---LeetCode Topics End-->
