@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/tinu2962-sys/leetcodesolutions/tree/master/0013-roman-to-integer) |
 | [0050-powx-n](https://github.com/tinu2962-sys/leetcodesolutions/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/tinu2962-sys/leetcodesolutions/tree/master/0231-power-of-two) |
+| [0342-power-of-four](https://github.com/tinu2962-sys/leetcodesolutions/tree/master/0342-power-of-four) |
 | [0412-fizz-buzz](https://github.com/tinu2962-sys/leetcodesolutions/tree/master/0412-fizz-buzz) |
 | [1512-number-of-good-pairs](https://github.com/tinu2962-sys/leetcodesolutions/tree/master/1512-number-of-good-pairs) |
 ## Recursion
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0050-powx-n](https://github.com/tinu2962-sys/leetcodesolutions/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/tinu2962-sys/leetcodesolutions/tree/master/0231-power-of-two) |
+| [0342-power-of-four](https://github.com/tinu2962-sys/leetcodesolutions/tree/master/0342-power-of-four) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -127,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0191-number-of-1-bits](https://github.com/tinu2962-sys/leetcodesolutions/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/tinu2962-sys/leetcodesolutions/tree/master/0231-power-of-two) |
+| [0342-power-of-four](https://github.com/tinu2962-sys/leetcodesolutions/tree/master/0342-power-of-four) |
 ## Sliding Window
 |  |
 | ------- |
