@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/tinu2962-sys/leetcodesolutions/tree/master/0014-longest-common-prefix) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/tinu2962-sys/leetcodesolutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/tinu2962-sys/leetcodesolutions/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/tinu2962-sys/leetcodesolutions/tree/master/0067-add-binary) |
 | [0151-reverse-words-in-a-string](https://github.com/tinu2962-sys/leetcodesolutions/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/tinu2962-sys/leetcodesolutions/tree/master/0344-reverse-string) |
 | [0412-fizz-buzz](https://github.com/tinu2962-sys/leetcodesolutions/tree/master/0412-fizz-buzz) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/tinu2962-sys/leetcodesolutions/tree/master/0013-roman-to-integer) |
 | [0050-powx-n](https://github.com/tinu2962-sys/leetcodesolutions/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/tinu2962-sys/leetcodesolutions/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/tinu2962-sys/leetcodesolutions/tree/master/0067-add-binary) |
 | [0231-power-of-two](https://github.com/tinu2962-sys/leetcodesolutions/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/tinu2962-sys/leetcodesolutions/tree/master/0342-power-of-four) |
 | [0412-fizz-buzz](https://github.com/tinu2962-sys/leetcodesolutions/tree/master/0412-fizz-buzz) |
@@ -129,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/tinu2962-sys/leetcodesolutions/tree/master/0067-add-binary) |
 | [0191-number-of-1-bits](https://github.com/tinu2962-sys/leetcodesolutions/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/tinu2962-sys/leetcodesolutions/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/tinu2962-sys/leetcodesolutions/tree/master/0342-power-of-four) |
@@ -167,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/tinu2962-sys/leetcodesolutions/tree/master/0067-add-binary) |
 | [0412-fizz-buzz](https://github.com/tinu2962-sys/leetcodesolutions/tree/master/0412-fizz-buzz) |
 ## String Matching
 |  |
