@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/tinu2962-sys/leetcodesolutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/tinu2962-sys/leetcodesolutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/tinu2962-sys/leetcodesolutions/tree/master/0217-contains-duplicate) |
+| [0283-move-zeroes](https://github.com/tinu2962-sys/leetcodesolutions/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/tinu2962-sys/leetcodesolutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/tinu2962-sys/leetcodesolutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0561-array-partition](https://github.com/tinu2962-sys/leetcodesolutions/tree/master/0561-array-partition) |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/tinu2962-sys/leetcodesolutions/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/tinu2962-sys/leetcodesolutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0151-reverse-words-in-a-string](https://github.com/tinu2962-sys/leetcodesolutions/tree/master/0151-reverse-words-in-a-string) |
+| [0283-move-zeroes](https://github.com/tinu2962-sys/leetcodesolutions/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/tinu2962-sys/leetcodesolutions/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/tinu2962-sys/leetcodesolutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/tinu2962-sys/leetcodesolutions/tree/master/0350-intersection-of-two-arrays-ii) |
