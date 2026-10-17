@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/tinu2962-sys/leetcodesolutions/tree/master/0067-add-binary) |
 | [0231-power-of-two](https://github.com/tinu2962-sys/leetcodesolutions/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/tinu2962-sys/leetcodesolutions/tree/master/0342-power-of-four) |
+| [0367-valid-perfect-square](https://github.com/tinu2962-sys/leetcodesolutions/tree/master/0367-valid-perfect-square) |
 | [0412-fizz-buzz](https://github.com/tinu2962-sys/leetcodesolutions/tree/master/0412-fizz-buzz) |
 | [1512-number-of-good-pairs](https://github.com/tinu2962-sys/leetcodesolutions/tree/master/1512-number-of-good-pairs) |
 ## Recursion
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/tinu2962-sys/leetcodesolutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/tinu2962-sys/leetcodesolutions/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0367-valid-perfect-square](https://github.com/tinu2962-sys/leetcodesolutions/tree/master/0367-valid-perfect-square) |
 | [0713-subarray-product-less-than-k](https://github.com/tinu2962-sys/leetcodesolutions/tree/master/0713-subarray-product-less-than-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/tinu2962-sys/leetcodesolutions/tree/master/1004-max-consecutive-ones-iii) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/tinu2962-sys/leetcodesolutions/tree/master/2024-maximize-the-confusion-of-an-exam) |
