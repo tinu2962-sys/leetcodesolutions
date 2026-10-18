@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/tinu2962-sys/leetcodesolutions/tree/master/0412-fizz-buzz) |
 | [0507-perfect-number](https://github.com/tinu2962-sys/leetcodesolutions/tree/master/0507-perfect-number) |
 | [1512-number-of-good-pairs](https://github.com/tinu2962-sys/leetcodesolutions/tree/master/1512-number-of-good-pairs) |
+| [1952-three-divisors](https://github.com/tinu2962-sys/leetcodesolutions/tree/master/1952-three-divisors) |
 | [2413-smallest-even-multiple](https://github.com/tinu2962-sys/leetcodesolutions/tree/master/2413-smallest-even-multiple) |
 ## Recursion
 |  |
@@ -204,5 +205,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [1952-three-divisors](https://github.com/tinu2962-sys/leetcodesolutions/tree/master/1952-three-divisors) |
 | [2413-smallest-even-multiple](https://github.com/tinu2962-sys/leetcodesolutions/tree/master/2413-smallest-even-multiple) |
+## Enumeration
+|  |
+| ------- |
+| [1952-three-divisors](https://github.com/tinu2962-sys/leetcodesolutions/tree/master/1952-three-divisors) |
+## Prime Factorization
+|  |
+| ------- |
+| [1952-three-divisors](https://github.com/tinu2962-sys/leetcodesolutions/tree/master/1952-three-divisors) |
+## Sieve Theory
+|  |
+| ------- |
+| [1952-three-divisors](https://github.com/tinu2962-sys/leetcodesolutions/tree/master/1952-three-divisors) |
 <!---LeetCode Topics End-->
