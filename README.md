@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/tinu2962-sys/leetcodesolutions/tree/master/0392-is-subsequence) |
 | [0412-fizz-buzz](https://github.com/tinu2962-sys/leetcodesolutions/tree/master/0412-fizz-buzz) |
 | [0819-most-common-word](https://github.com/tinu2962-sys/leetcodesolutions/tree/master/0819-most-common-word) |
+| [1154-day-of-the-year](https://github.com/tinu2962-sys/leetcodesolutions/tree/master/1154-day-of-the-year) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/tinu2962-sys/leetcodesolutions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/tinu2962-sys/leetcodesolutions/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [2325-decode-the-message](https://github.com/tinu2962-sys/leetcodesolutions/tree/master/2325-decode-the-message) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0367-valid-perfect-square](https://github.com/tinu2962-sys/leetcodesolutions/tree/master/0367-valid-perfect-square) |
 | [0412-fizz-buzz](https://github.com/tinu2962-sys/leetcodesolutions/tree/master/0412-fizz-buzz) |
 | [0507-perfect-number](https://github.com/tinu2962-sys/leetcodesolutions/tree/master/0507-perfect-number) |
+| [1154-day-of-the-year](https://github.com/tinu2962-sys/leetcodesolutions/tree/master/1154-day-of-the-year) |
 | [1512-number-of-good-pairs](https://github.com/tinu2962-sys/leetcodesolutions/tree/master/1512-number-of-good-pairs) |
 | [1952-three-divisors](https://github.com/tinu2962-sys/leetcodesolutions/tree/master/1952-three-divisors) |
 | [2413-smallest-even-multiple](https://github.com/tinu2962-sys/leetcodesolutions/tree/master/2413-smallest-even-multiple) |
