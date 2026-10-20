@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/tinu2962-sys/leetcodesolutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/tinu2962-sys/leetcodesolutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/tinu2962-sys/leetcodesolutions/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/tinu2962-sys/leetcodesolutions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/tinu2962-sys/leetcodesolutions/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/tinu2962-sys/leetcodesolutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/tinu2962-sys/leetcodesolutions/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/tinu2962-sys/leetcodesolutions/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/tinu2962-sys/leetcodesolutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/tinu2962-sys/leetcodesolutions/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/tinu2962-sys/leetcodesolutions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/tinu2962-sys/leetcodesolutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/tinu2962-sys/leetcodesolutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0819-most-common-word](https://github.com/tinu2962-sys/leetcodesolutions/tree/master/0819-most-common-word) |
@@ -71,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/tinu2962-sys/leetcodesolutions/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/tinu2962-sys/leetcodesolutions/tree/master/0067-add-binary) |
 | [0231-power-of-two](https://github.com/tinu2962-sys/leetcodesolutions/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/tinu2962-sys/leetcodesolutions/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/tinu2962-sys/leetcodesolutions/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/tinu2962-sys/leetcodesolutions/tree/master/0367-valid-perfect-square) |
 | [0412-fizz-buzz](https://github.com/tinu2962-sys/leetcodesolutions/tree/master/0412-fizz-buzz) |
@@ -104,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/tinu2962-sys/leetcodesolutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/tinu2962-sys/leetcodesolutions/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/tinu2962-sys/leetcodesolutions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/tinu2962-sys/leetcodesolutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/tinu2962-sys/leetcodesolutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0561-array-partition](https://github.com/tinu2962-sys/leetcodesolutions/tree/master/0561-array-partition) |
@@ -134,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/tinu2962-sys/leetcodesolutions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/tinu2962-sys/leetcodesolutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/tinu2962-sys/leetcodesolutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0367-valid-perfect-square](https://github.com/tinu2962-sys/leetcodesolutions/tree/master/0367-valid-perfect-square) |
@@ -150,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/tinu2962-sys/leetcodesolutions/tree/master/0067-add-binary) |
 | [0191-number-of-1-bits](https://github.com/tinu2962-sys/leetcodesolutions/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/tinu2962-sys/leetcodesolutions/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/tinu2962-sys/leetcodesolutions/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/tinu2962-sys/leetcodesolutions/tree/master/0342-power-of-four) |
 ## Sliding Window
 |  |
