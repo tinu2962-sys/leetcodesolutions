@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/tinu2962-sys/leetcodesolutions/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [2325-decode-the-message](https://github.com/tinu2962-sys/leetcodesolutions/tree/master/2325-decode-the-message) |
 | [2418-sort-the-people](https://github.com/tinu2962-sys/leetcodesolutions/tree/master/2418-sort-the-people) |
+| [3438-find-valid-pair-of-adjacent-digits-in-string](https://github.com/tinu2962-sys/leetcodesolutions/tree/master/3438-find-valid-pair-of-adjacent-digits-in-string) |
 ## Array
 |  |
 | ------- |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/tinu2962-sys/leetcodesolutions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2325-decode-the-message](https://github.com/tinu2962-sys/leetcodesolutions/tree/master/2325-decode-the-message) |
 | [2418-sort-the-people](https://github.com/tinu2962-sys/leetcodesolutions/tree/master/2418-sort-the-people) |
+| [3438-find-valid-pair-of-adjacent-digits-in-string](https://github.com/tinu2962-sys/leetcodesolutions/tree/master/3438-find-valid-pair-of-adjacent-digits-in-string) |
 ## Math
 |  |
 | ------- |
@@ -129,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0819-most-common-word](https://github.com/tinu2962-sys/leetcodesolutions/tree/master/0819-most-common-word) |
 | [1512-number-of-good-pairs](https://github.com/tinu2962-sys/leetcodesolutions/tree/master/1512-number-of-good-pairs) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/tinu2962-sys/leetcodesolutions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
+| [3438-find-valid-pair-of-adjacent-digits-in-string](https://github.com/tinu2962-sys/leetcodesolutions/tree/master/3438-find-valid-pair-of-adjacent-digits-in-string) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
