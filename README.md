@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0713-subarray-product-less-than-k](https://github.com/tinu2962-sys/leetcodesolutions/tree/master/0713-subarray-product-less-than-k) |
 | [0766-toeplitz-matrix](https://github.com/tinu2962-sys/leetcodesolutions/tree/master/0766-toeplitz-matrix) |
 | [0819-most-common-word](https://github.com/tinu2962-sys/leetcodesolutions/tree/master/0819-most-common-word) |
+| [0977-squares-of-a-sorted-array](https://github.com/tinu2962-sys/leetcodesolutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/tinu2962-sys/leetcodesolutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/tinu2962-sys/leetcodesolutions/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/tinu2962-sys/leetcodesolutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/tinu2962-sys/leetcodesolutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/tinu2962-sys/leetcodesolutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0561-array-partition](https://github.com/tinu2962-sys/leetcodesolutions/tree/master/0561-array-partition) |
+| [0977-squares-of-a-sorted-array](https://github.com/tinu2962-sys/leetcodesolutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/tinu2962-sys/leetcodesolutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/tinu2962-sys/leetcodesolutions/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2418-sort-the-people](https://github.com/tinu2962-sys/leetcodesolutions/tree/master/2418-sort-the-people) |
@@ -152,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/tinu2962-sys/leetcodesolutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0392-is-subsequence](https://github.com/tinu2962-sys/leetcodesolutions/tree/master/0392-is-subsequence) |
 | [0541-reverse-string-ii](https://github.com/tinu2962-sys/leetcodesolutions/tree/master/0541-reverse-string-ii) |
+| [0977-squares-of-a-sorted-array](https://github.com/tinu2962-sys/leetcodesolutions/tree/master/0977-squares-of-a-sorted-array) |
 ## Binary Search
 |  |
 | ------- |
