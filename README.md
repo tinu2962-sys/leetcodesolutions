@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1154-day-of-the-year](https://github.com/tinu2962-sys/leetcodesolutions/tree/master/1154-day-of-the-year) |
 | [1512-number-of-good-pairs](https://github.com/tinu2962-sys/leetcodesolutions/tree/master/1512-number-of-good-pairs) |
 | [1952-three-divisors](https://github.com/tinu2962-sys/leetcodesolutions/tree/master/1952-three-divisors) |
+| [2119-a-number-after-a-double-reversal](https://github.com/tinu2962-sys/leetcodesolutions/tree/master/2119-a-number-after-a-double-reversal) |
 | [2413-smallest-even-multiple](https://github.com/tinu2962-sys/leetcodesolutions/tree/master/2413-smallest-even-multiple) |
 | [2469-convert-the-temperature](https://github.com/tinu2962-sys/leetcodesolutions/tree/master/2469-convert-the-temperature) |
 ## Recursion
