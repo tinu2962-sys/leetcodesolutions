@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/tinu2962-sys/leetcodesolutions/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/tinu2962-sys/leetcodesolutions/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/tinu2962-sys/leetcodesolutions/tree/master/0268-missing-number) |
+| [0292-nim-game](https://github.com/tinu2962-sys/leetcodesolutions/tree/master/0292-nim-game) |
 | [0342-power-of-four](https://github.com/tinu2962-sys/leetcodesolutions/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/tinu2962-sys/leetcodesolutions/tree/master/0367-valid-perfect-square) |
 | [0412-fizz-buzz](https://github.com/tinu2962-sys/leetcodesolutions/tree/master/0412-fizz-buzz) |
@@ -262,4 +263,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/tinu2962-sys/leetcodesolutions/tree/master/0202-happy-number) |
+## Brainteaser
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/tinu2962-sys/leetcodesolutions/tree/master/0292-nim-game) |
+## Minimax
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/tinu2962-sys/leetcodesolutions/tree/master/0292-nim-game) |
+## Game Theory
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/tinu2962-sys/leetcodesolutions/tree/master/0292-nim-game) |
+## Nim Game
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/tinu2962-sys/leetcodesolutions/tree/master/0292-nim-game) |
+## Impartial Game
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/tinu2962-sys/leetcodesolutions/tree/master/0292-nim-game) |
 <!---LeetCode Topics End-->
