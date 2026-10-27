@@ -283,4 +283,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/tinu2962-sys/leetcodesolutions/tree/master/0292-nim-game) |
+## Database
+|  |
+| ------- |
+| [0197-rising-temperature](https://github.com/tinu2962-sys/leetcodesolutions/tree/master/0197-rising-temperature) |
 <!---LeetCode Topics End-->
