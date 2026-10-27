@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/tinu2962-sys/leetcodesolutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/tinu2962-sys/leetcodesolutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/tinu2962-sys/leetcodesolutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0455-assign-cookies](https://github.com/tinu2962-sys/leetcodesolutions/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/tinu2962-sys/leetcodesolutions/tree/master/0561-array-partition) |
 | [0697-degree-of-an-array](https://github.com/tinu2962-sys/leetcodesolutions/tree/master/0697-degree-of-an-array) |
 | [0713-subarray-product-less-than-k](https://github.com/tinu2962-sys/leetcodesolutions/tree/master/0713-subarray-product-less-than-k) |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/tinu2962-sys/leetcodesolutions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/tinu2962-sys/leetcodesolutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/tinu2962-sys/leetcodesolutions/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0455-assign-cookies](https://github.com/tinu2962-sys/leetcodesolutions/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/tinu2962-sys/leetcodesolutions/tree/master/0561-array-partition) |
 | [0977-squares-of-a-sorted-array](https://github.com/tinu2962-sys/leetcodesolutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/tinu2962-sys/leetcodesolutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -161,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/tinu2962-sys/leetcodesolutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/tinu2962-sys/leetcodesolutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0392-is-subsequence](https://github.com/tinu2962-sys/leetcodesolutions/tree/master/0392-is-subsequence) |
+| [0455-assign-cookies](https://github.com/tinu2962-sys/leetcodesolutions/tree/master/0455-assign-cookies) |
 | [0541-reverse-string-ii](https://github.com/tinu2962-sys/leetcodesolutions/tree/master/0541-reverse-string-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/tinu2962-sys/leetcodesolutions/tree/master/0977-squares-of-a-sorted-array) |
 ## Binary Search
@@ -200,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0455-assign-cookies](https://github.com/tinu2962-sys/leetcodesolutions/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/tinu2962-sys/leetcodesolutions/tree/master/0561-array-partition) |
 ## Counting Sort
 |  |
@@ -287,4 +291,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0197-rising-temperature](https://github.com/tinu2962-sys/leetcodesolutions/tree/master/0197-rising-temperature) |
+## Quicksort
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/tinu2962-sys/leetcodesolutions/tree/master/0455-assign-cookies) |
 <!---LeetCode Topics End-->
