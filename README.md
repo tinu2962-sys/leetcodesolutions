@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/tinu2962-sys/leetcodesolutions/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/tinu2962-sys/leetcodesolutions/tree/master/0014-longest-common-prefix) |
 | [0027-remove-element](https://github.com/tinu2962-sys/leetcodesolutions/tree/master/0027-remove-element) |
+| [0051-n-queens](https://github.com/tinu2962-sys/leetcodesolutions/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/tinu2962-sys/leetcodesolutions/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/tinu2962-sys/leetcodesolutions/tree/master/0066-plus-one) |
 | [0118-pascals-triangle](https://github.com/tinu2962-sys/leetcodesolutions/tree/master/0118-pascals-triangle) |
@@ -300,4 +301,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/tinu2962-sys/leetcodesolutions/tree/master/0455-assign-cookies) |
+## Backtracking
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/tinu2962-sys/leetcodesolutions/tree/master/0051-n-queens) |
+## Algorithm X
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/tinu2962-sys/leetcodesolutions/tree/master/0051-n-queens) |
 <!---LeetCode Topics End-->
