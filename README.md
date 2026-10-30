@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/tinu2962-sys/leetcodesolutions/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2016-maximum-difference-between-increasing-elements](https://github.com/tinu2962-sys/leetcodesolutions/tree/master/2016-maximum-difference-between-increasing-elements) |
 | [2418-sort-the-people](https://github.com/tinu2962-sys/leetcodesolutions/tree/master/2418-sort-the-people) |
+| [3142-check-if-grid-satisfies-conditions](https://github.com/tinu2962-sys/leetcodesolutions/tree/master/3142-check-if-grid-satisfies-conditions) |
 ## Hash Table
 |  |
 | ------- |
@@ -189,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0766-toeplitz-matrix](https://github.com/tinu2962-sys/leetcodesolutions/tree/master/0766-toeplitz-matrix) |
+| [3142-check-if-grid-satisfies-conditions](https://github.com/tinu2962-sys/leetcodesolutions/tree/master/3142-check-if-grid-satisfies-conditions) |
 ## Bit Manipulation
 |  |
 | ------- |
