@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0819-most-common-word](https://github.com/tinu2962-sys/leetcodesolutions/tree/master/0819-most-common-word) |
 | [0977-squares-of-a-sorted-array](https://github.com/tinu2962-sys/leetcodesolutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/tinu2962-sys/leetcodesolutions/tree/master/1004-max-consecutive-ones-iii) |
+| [1207-unique-number-of-occurrences](https://github.com/tinu2962-sys/leetcodesolutions/tree/master/1207-unique-number-of-occurrences) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/tinu2962-sys/leetcodesolutions/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/tinu2962-sys/leetcodesolutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1470-shuffle-the-array](https://github.com/tinu2962-sys/leetcodesolutions/tree/master/1470-shuffle-the-array) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0500-keyboard-row](https://github.com/tinu2962-sys/leetcodesolutions/tree/master/0500-keyboard-row) |
 | [0697-degree-of-an-array](https://github.com/tinu2962-sys/leetcodesolutions/tree/master/0697-degree-of-an-array) |
 | [0819-most-common-word](https://github.com/tinu2962-sys/leetcodesolutions/tree/master/0819-most-common-word) |
+| [1207-unique-number-of-occurrences](https://github.com/tinu2962-sys/leetcodesolutions/tree/master/1207-unique-number-of-occurrences) |
 | [1512-number-of-good-pairs](https://github.com/tinu2962-sys/leetcodesolutions/tree/master/1512-number-of-good-pairs) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/tinu2962-sys/leetcodesolutions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2325-decode-the-message](https://github.com/tinu2962-sys/leetcodesolutions/tree/master/2325-decode-the-message) |
