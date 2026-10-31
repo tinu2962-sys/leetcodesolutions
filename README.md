@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/tinu2962-sys/leetcodesolutions/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2016-maximum-difference-between-increasing-elements](https://github.com/tinu2962-sys/leetcodesolutions/tree/master/2016-maximum-difference-between-increasing-elements) |
 | [2418-sort-the-people](https://github.com/tinu2962-sys/leetcodesolutions/tree/master/2418-sort-the-people) |
+| [2614-prime-in-diagonal](https://github.com/tinu2962-sys/leetcodesolutions/tree/master/2614-prime-in-diagonal) |
 | [3142-check-if-grid-satisfies-conditions](https://github.com/tinu2962-sys/leetcodesolutions/tree/master/3142-check-if-grid-satisfies-conditions) |
 ## Hash Table
 |  |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2119-a-number-after-a-double-reversal](https://github.com/tinu2962-sys/leetcodesolutions/tree/master/2119-a-number-after-a-double-reversal) |
 | [2413-smallest-even-multiple](https://github.com/tinu2962-sys/leetcodesolutions/tree/master/2413-smallest-even-multiple) |
 | [2469-convert-the-temperature](https://github.com/tinu2962-sys/leetcodesolutions/tree/master/2469-convert-the-temperature) |
+| [2614-prime-in-diagonal](https://github.com/tinu2962-sys/leetcodesolutions/tree/master/2614-prime-in-diagonal) |
 ## Recursion
 |  |
 | ------- |
@@ -196,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0766-toeplitz-matrix](https://github.com/tinu2962-sys/leetcodesolutions/tree/master/0766-toeplitz-matrix) |
 | [0867-transpose-matrix](https://github.com/tinu2962-sys/leetcodesolutions/tree/master/0867-transpose-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/tinu2962-sys/leetcodesolutions/tree/master/1572-matrix-diagonal-sum) |
+| [2614-prime-in-diagonal](https://github.com/tinu2962-sys/leetcodesolutions/tree/master/2614-prime-in-diagonal) |
 | [3142-check-if-grid-satisfies-conditions](https://github.com/tinu2962-sys/leetcodesolutions/tree/master/3142-check-if-grid-satisfies-conditions) |
 ## Bit Manipulation
 |  |
@@ -269,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/tinu2962-sys/leetcodesolutions/tree/master/0258-add-digits) |
 | [1952-three-divisors](https://github.com/tinu2962-sys/leetcodesolutions/tree/master/1952-three-divisors) |
 | [2413-smallest-even-multiple](https://github.com/tinu2962-sys/leetcodesolutions/tree/master/2413-smallest-even-multiple) |
+| [2614-prime-in-diagonal](https://github.com/tinu2962-sys/leetcodesolutions/tree/master/2614-prime-in-diagonal) |
 ## Enumeration
 |  |
 | ------- |
