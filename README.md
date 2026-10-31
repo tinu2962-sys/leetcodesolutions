@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/tinu2962-sys/leetcodesolutions/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2016-maximum-difference-between-increasing-elements](https://github.com/tinu2962-sys/leetcodesolutions/tree/master/2016-maximum-difference-between-increasing-elements) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/tinu2962-sys/leetcodesolutions/tree/master/2022-convert-1d-array-into-2d-array) |
+| [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/tinu2962-sys/leetcodesolutions/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
 | [2418-sort-the-people](https://github.com/tinu2962-sys/leetcodesolutions/tree/master/2418-sort-the-people) |
 | [2614-prime-in-diagonal](https://github.com/tinu2962-sys/leetcodesolutions/tree/master/2614-prime-in-diagonal) |
 | [3142-check-if-grid-satisfies-conditions](https://github.com/tinu2962-sys/leetcodesolutions/tree/master/3142-check-if-grid-satisfies-conditions) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1207-unique-number-of-occurrences](https://github.com/tinu2962-sys/leetcodesolutions/tree/master/1207-unique-number-of-occurrences) |
 | [1512-number-of-good-pairs](https://github.com/tinu2962-sys/leetcodesolutions/tree/master/1512-number-of-good-pairs) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/tinu2962-sys/leetcodesolutions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
+| [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/tinu2962-sys/leetcodesolutions/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
 | [2325-decode-the-message](https://github.com/tinu2962-sys/leetcodesolutions/tree/master/2325-decode-the-message) |
 | [2418-sort-the-people](https://github.com/tinu2962-sys/leetcodesolutions/tree/master/2418-sort-the-people) |
 | [3438-find-valid-pair-of-adjacent-digits-in-string](https://github.com/tinu2962-sys/leetcodesolutions/tree/master/3438-find-valid-pair-of-adjacent-digits-in-string) |
@@ -203,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/tinu2962-sys/leetcodesolutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/tinu2962-sys/leetcodesolutions/tree/master/1572-matrix-diagonal-sum) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/tinu2962-sys/leetcodesolutions/tree/master/2022-convert-1d-array-into-2d-array) |
+| [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/tinu2962-sys/leetcodesolutions/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
 | [2614-prime-in-diagonal](https://github.com/tinu2962-sys/leetcodesolutions/tree/master/2614-prime-in-diagonal) |
 | [3142-check-if-grid-satisfies-conditions](https://github.com/tinu2962-sys/leetcodesolutions/tree/master/3142-check-if-grid-satisfies-conditions) |
 ## Bit Manipulation
