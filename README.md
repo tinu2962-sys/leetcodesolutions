@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/tinu2962-sys/leetcodesolutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1207-unique-number-of-occurrences](https://github.com/tinu2962-sys/leetcodesolutions/tree/master/1207-unique-number-of-occurrences) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/tinu2962-sys/leetcodesolutions/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/tinu2962-sys/leetcodesolutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/tinu2962-sys/leetcodesolutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1470-shuffle-the-array](https://github.com/tinu2962-sys/leetcodesolutions/tree/master/1470-shuffle-the-array) |
 | [1512-number-of-good-pairs](https://github.com/tinu2962-sys/leetcodesolutions/tree/master/1512-number-of-good-pairs) |
@@ -191,12 +192,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0441-arranging-coins](https://github.com/tinu2962-sys/leetcodesolutions/tree/master/0441-arranging-coins) |
 | [0713-subarray-product-less-than-k](https://github.com/tinu2962-sys/leetcodesolutions/tree/master/0713-subarray-product-less-than-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/tinu2962-sys/leetcodesolutions/tree/master/1004-max-consecutive-ones-iii) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/tinu2962-sys/leetcodesolutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/tinu2962-sys/leetcodesolutions/tree/master/2024-maximize-the-confusion-of-an-exam) |
 ## Matrix
 |  |
 | ------- |
 | [0766-toeplitz-matrix](https://github.com/tinu2962-sys/leetcodesolutions/tree/master/0766-toeplitz-matrix) |
 | [0867-transpose-matrix](https://github.com/tinu2962-sys/leetcodesolutions/tree/master/0867-transpose-matrix) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/tinu2962-sys/leetcodesolutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/tinu2962-sys/leetcodesolutions/tree/master/1572-matrix-diagonal-sum) |
 | [2614-prime-in-diagonal](https://github.com/tinu2962-sys/leetcodesolutions/tree/master/2614-prime-in-diagonal) |
 | [3142-check-if-grid-satisfies-conditions](https://github.com/tinu2962-sys/leetcodesolutions/tree/master/3142-check-if-grid-satisfies-conditions) |
