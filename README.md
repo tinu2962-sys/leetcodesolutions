@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0713-subarray-product-less-than-k](https://github.com/tinu2962-sys/leetcodesolutions/tree/master/0713-subarray-product-less-than-k) |
 | [0766-toeplitz-matrix](https://github.com/tinu2962-sys/leetcodesolutions/tree/master/0766-toeplitz-matrix) |
 | [0819-most-common-word](https://github.com/tinu2962-sys/leetcodesolutions/tree/master/0819-most-common-word) |
+| [0867-transpose-matrix](https://github.com/tinu2962-sys/leetcodesolutions/tree/master/0867-transpose-matrix) |
 | [0977-squares-of-a-sorted-array](https://github.com/tinu2962-sys/leetcodesolutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/tinu2962-sys/leetcodesolutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1207-unique-number-of-occurrences](https://github.com/tinu2962-sys/leetcodesolutions/tree/master/1207-unique-number-of-occurrences) |
@@ -192,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0766-toeplitz-matrix](https://github.com/tinu2962-sys/leetcodesolutions/tree/master/0766-toeplitz-matrix) |
+| [0867-transpose-matrix](https://github.com/tinu2962-sys/leetcodesolutions/tree/master/0867-transpose-matrix) |
 | [3142-check-if-grid-satisfies-conditions](https://github.com/tinu2962-sys/leetcodesolutions/tree/master/3142-check-if-grid-satisfies-conditions) |
 ## Bit Manipulation
 |  |
@@ -242,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/tinu2962-sys/leetcodesolutions/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/tinu2962-sys/leetcodesolutions/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/tinu2962-sys/leetcodesolutions/tree/master/0412-fizz-buzz) |
+| [0867-transpose-matrix](https://github.com/tinu2962-sys/leetcodesolutions/tree/master/0867-transpose-matrix) |
 ## String Matching
 |  |
 | ------- |
