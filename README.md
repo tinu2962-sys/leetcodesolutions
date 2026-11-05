@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/tinu2962-sys/leetcodesolutions/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
 | [2418-sort-the-people](https://github.com/tinu2962-sys/leetcodesolutions/tree/master/2418-sort-the-people) |
 | [2614-prime-in-diagonal](https://github.com/tinu2962-sys/leetcodesolutions/tree/master/2614-prime-in-diagonal) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/tinu2962-sys/leetcodesolutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3142-check-if-grid-satisfies-conditions](https://github.com/tinu2962-sys/leetcodesolutions/tree/master/3142-check-if-grid-satisfies-conditions) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/tinu2962-sys/leetcodesolutions/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Hash Table
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/tinu2962-sys/leetcodesolutions/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
 | [2325-decode-the-message](https://github.com/tinu2962-sys/leetcodesolutions/tree/master/2325-decode-the-message) |
 | [2418-sort-the-people](https://github.com/tinu2962-sys/leetcodesolutions/tree/master/2418-sort-the-people) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/tinu2962-sys/leetcodesolutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3438-find-valid-pair-of-adjacent-digits-in-string](https://github.com/tinu2962-sys/leetcodesolutions/tree/master/3438-find-valid-pair-of-adjacent-digits-in-string) |
 ## Math
 |  |
@@ -163,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/tinu2962-sys/leetcodesolutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/tinu2962-sys/leetcodesolutions/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2418-sort-the-people](https://github.com/tinu2962-sys/leetcodesolutions/tree/master/2418-sort-the-people) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/tinu2962-sys/leetcodesolutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Counting
 |  |
 | ------- |
