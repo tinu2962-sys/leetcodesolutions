@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/tinu2962-sys/leetcodesolutions/tree/master/0067-add-binary) |
 | [0151-reverse-words-in-a-string](https://github.com/tinu2962-sys/leetcodesolutions/tree/master/0151-reverse-words-in-a-string) |
 | [0168-excel-sheet-column-title](https://github.com/tinu2962-sys/leetcodesolutions/tree/master/0168-excel-sheet-column-title) |
+| [0171-excel-sheet-column-number](https://github.com/tinu2962-sys/leetcodesolutions/tree/master/0171-excel-sheet-column-number) |
 | [0344-reverse-string](https://github.com/tinu2962-sys/leetcodesolutions/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/tinu2962-sys/leetcodesolutions/tree/master/0392-is-subsequence) |
 | [0412-fizz-buzz](https://github.com/tinu2962-sys/leetcodesolutions/tree/master/0412-fizz-buzz) |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/tinu2962-sys/leetcodesolutions/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/tinu2962-sys/leetcodesolutions/tree/master/0067-add-binary) |
 | [0168-excel-sheet-column-title](https://github.com/tinu2962-sys/leetcodesolutions/tree/master/0168-excel-sheet-column-title) |
+| [0171-excel-sheet-column-number](https://github.com/tinu2962-sys/leetcodesolutions/tree/master/0171-excel-sheet-column-number) |
 | [0202-happy-number](https://github.com/tinu2962-sys/leetcodesolutions/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/tinu2962-sys/leetcodesolutions/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/tinu2962-sys/leetcodesolutions/tree/master/0258-add-digits) |
